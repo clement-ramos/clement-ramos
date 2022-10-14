@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @clement-ramos
-🔭 I’m currently syudying at LaPlateforme_
+👋 Hi, I’m @clement-ramos <br>
+🔭 I’m currently syudying at LaPlateforme_<br>
 
 
 ## 🌐 Socials:
