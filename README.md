@@ -16,7 +16,7 @@
 IT is as much a passion as a job, so I really don't count the hours spent on it.My main objectives right now is to increase my skills to be more versatile.I'm a french student located in the south of France and if I'm not coding you'll probably find me at the gym or hanging out with my friends
 
 <h1>Projects</h1>
-<img src="[https://aniyuki.com/wp-content/uploads/2021/07/aniyuki-tokyo-revengers-gif-2.gif](https://media.tenor.com/eCZT7WTXe6MAAAAM/the-office.gif)" width="200"/>
+<img src="https://media.tenor.com/eCZT7WTXe6MAAAAM/the-office.gif" width="200"/>
 
 <h1>Skills</h1>
  <div display= "flex" flex-direction="row">
@@ -25,7 +25,7 @@ IT is as much a passion as a job, so I really don't count the hours spent on it.
  </div>
  <h2> Softwares I use </h2>
  
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r,html,css,js,mysql,eclipse,vscode,linux,github,blender)]
+![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r,html,css,js,mysql,eclipse,vscode,linux,github,blender)
 
 # Contact
 
