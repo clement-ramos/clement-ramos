@@ -16,8 +16,8 @@ IT is as much a passion as a job, so I really don't count the hours spent on it.
 
 <h1>Projects</h1>
 	<h2>My Discord</h2>
-		<a href="https://github.com/clement-ramos/myDiscord/blob/main/README.md">
-		    <img src="https://github.com/clement-ramos/myDiscord/blob/main/assets/image.png" width="200"/>
+		<a href="https://github.com/clement-ramos/myDiscord">
+		    <img src="https://github.com/clement-ramos/myDiscord/blob/main/assets/image.png" width="400"/>
 		</a>  
 
 <h1>Skills</h1>
