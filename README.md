@@ -15,7 +15,10 @@
 IT is as much a passion as a job, so I really don't count the hours spent on it.My main objectives right now is to increase my skills to be more versatile.I'm a french student located in the south of France and if I'm not coding you'll probably find me at the gym or hanging out with my friends
 
 <h1>Projects</h1>
-<img src="https://media.tenor.com/eCZT7WTXe6MAAAAM/the-office.gif" width="200"/>
+	<h2>My Discord</h2>
+		<a href="https://github.com/clement-ramos/myDiscord/blob/main/README.md">
+		    <img src="https://github.com/clement-ramos/myDiscord/blob/main/assets/image.png" width="200"/>
+		</a>  
 
 <h1>Skills</h1>
  <div display= "flex" flex-direction="row">
