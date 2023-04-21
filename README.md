@@ -17,7 +17,7 @@ IT is as much a passion as a job, so I really don't count the hours spent on it.
 <h1>Projects</h1>
 	<h2>My Discord</h2>
 		<a href="https://github.com/clement-ramos/myDiscord">
-		    <img src="https://github.com/clement-ramos/myDiscord/blob/main/assets/image.png" width="400"/>
+		    <img src="https://github.com/clement-ramos/myDiscord/blob/main/assets/image.png" width="600"/>
 		</a>  
 	<h2>AlphaRMS</h2>
 		<p>
@@ -25,6 +25,7 @@ IT is as much a passion as a job, so I really don't count the hours spent on it.
 			Eventually I hope this will be a complete tool for a software developer to quickly find info. For this project I'm using obsidian, an alternative to
 			"Notion", so all my notes are in .md and English.
 		</p>
+			<img src="" width="600">
 		<p>
 			Being able to summarize a concept helps me to understand it and forces me to practice English, another advantage is to have the graphic view, which 
 			allows me to have an idea of where it is and also allows me to specify my road map
