@@ -25,9 +25,12 @@ IT is as much a passion as a job, so I really don't count the hours spent on it.
 			Eventually I hope this will be a complete tool for a software developer to quickly find info. For this project I'm using obsidian, an alternative to
 			"Notion", so all my notes are in .md and English.
 		</p>
-			<img src="https://github.com/clement-ramos/Alpha_RMS/blob/master/assets/AlphaRMS.png?raw=true" width="600">
 	
-			<strong>This Proect is currently private on my GitHub, because he change very often and not proud of his general aspect.</strong>
+		<img src="https://github.com/clement-ramos/Alpha_RMS/blob/master/assets/AlphaRMS.png?raw=true" width="600">
+	
+		<strong>
+			This Proect is currently private on my GitHub, because he change very often and not proud of his general aspect.
+		</strong>
 	
 		<p>
 			Being able to summarize a concept helps me to understand it and forces me to practice English, another advantage is to have the graphic view, which 
