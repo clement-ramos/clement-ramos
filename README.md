@@ -20,7 +20,7 @@ IT is as much a passion as a job, so I really don't count the hours spent on it.
 		    <img src="https://github.com/clement-ramos/myDiscord/blob/main/assets/image.png" width="400"/>
 		</a>  
 	<h2>AlphaRMS</h2>
-		<p>I'am currently working on personal notes on obsidian (alternative to the notion), this note is .Media files with any knowledge useful to a software 				developer. It can be noted on a language, on an algorithm or  software that can be useful for me.
+		<p>I'am currently working on personal notes on obsidian (alternative to "Notion"), this note is .Media files with any knowledge useful to a software 				developer. It can be noted on a language, on an algorithm or  software that can be useful for me.
 			This project has the objective or being a Tool Box for me when I'am working but also to precise my roadmap of the topic that I have to learn.
 		</p>
 
