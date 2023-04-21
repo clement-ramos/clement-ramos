@@ -20,15 +20,13 @@ IT is as much a passion as a job, so I really don't count the hours spent on it.
 		    <img src="https://github.com/clement-ramos/myDiscord/blob/main/assets/image.png" width="600"/>
 		</a>  
 	<h2>AlphaRMS</h2>
+		<strong>This Project is currently private on my GitHub, because he change very often and not proud of his general aspect.</strong>	
 		<p>
 			This project is a set of notes that I write, summarizing notions that can be useful, it can be on programming languages, software tools or algorithms.
 			Eventually I hope this will be a complete tool for a software developer to quickly find info. For this project I'm using obsidian, an alternative to
 			"Notion", so all my notes are in .md and English.
 		</p>
 			<img src="https://github.com/clement-ramos/Alpha_RMS/blob/master/assets/AlphaRMS.png?raw=true" width="600">
-		<strong>
-			This Proect is currently private on my GitHub, because he change very often and not proud of his general aspect.
-		</strong>	
 		<p>
 			Being able to summarize a concept helps me to understand it and forces me to practice English, another advantage is to have the graphic view, which 
 			allows me to have an idea of where it is and also allows me to specify my road map
