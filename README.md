@@ -3,10 +3,7 @@
 <h1 align="center">Hello everyone👋, I'm Clément</h1>  
 
 <div id="header" align="center">
-	<a>
-	    <img src="https://aniyuki.com/wp-content/uploads/2021/07/aniyuki-tokyo-revengers-gif-2.gif" width="800"/>
-	</a>  
-  <br>
+
   <p>
 	I have always had a passion for computers and everything related to them.Today as a software developer I mainly work with python an java but have experienced many skills and languages.Here i share my work and my passion so feel comfortable to explore !
   </p>
